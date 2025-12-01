@@ -35,6 +35,11 @@ This project helps beginners understand:
 - 🎨 **Attractive Front-End Design**  
   Modern colors, simple layout, and easy navigation.
 
+To run this project locally:
+
+* Clone the repo
+    git clone https://github.com/CoderRahhul/BANKING-WEBSITE
+
 
 
 
