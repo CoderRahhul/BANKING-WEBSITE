@@ -35,9 +35,6 @@ This project helps beginners understand:
 - 🎨 **Attractive Front-End Design**  
   Modern colors, simple layout, and easy navigation.
 
----
-
-## 📁 Project Structure
 
 
 
