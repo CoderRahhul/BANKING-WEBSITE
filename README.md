@@ -38,7 +38,8 @@ This project helps beginners understand:
 To run this project locally:
 
 * Clone the repo
-    git clone https://github.com/CoderRahhul/BANKING-WEBSITE
+  - git clone https://github.com/CoderRahhul/BANKING-WEBSITE.git
+
 
 
 
